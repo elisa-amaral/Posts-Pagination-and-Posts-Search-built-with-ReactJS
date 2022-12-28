@@ -25,6 +25,7 @@ The user can load posts (10 at a time) and perform searchs in the posts titles t
 ## Technology Stack
 + React.js
 + JSX
++ JavaScript
 + HTML
 + CSS
 + [JSON Placeholder](https://jsonplaceholder.typicode.com/) | Free fake API for testing and prototyping
