@@ -8,9 +8,9 @@ The user can load posts (10 at a time) and perform searchs in the posts titles t
 
 ## Project Website
 
-*coming soon*
+https://post-pagination-and-search-in-reactjs.netlify.app/
 
-## Demonstration Video
+## Project Demonstration Video
 
 *coming soon*
 
