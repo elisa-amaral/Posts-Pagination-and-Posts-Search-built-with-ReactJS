@@ -13,7 +13,7 @@ export class Home extends Component {
     posts: [], // stores some posts, not all
     allPosts: [], // stores all posts
     page: 0, // 1st index for slide operation, starts at 0 posts (a "page" is when n posts are loaded on the screen)
-    postsPerPage: 3, // 2nd index for slice operation, loads n posts per "page" on the screen
+    postsPerPage: 5, // 2nd index for slice operation, loads n posts per "page" on the screen
     searchValue: ''
   }
 

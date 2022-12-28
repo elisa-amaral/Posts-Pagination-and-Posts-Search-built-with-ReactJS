@@ -14,9 +14,13 @@ The user can load posts (10 at a time) and perform searchs in the posts titles t
 
 *coming soon*
 
-## Screenshot
+## Screenshot 1: Posts Pagination
 
-![Screenshot](assets/img/Screenshot.jpg)
+![Screenshot](public/Screenshot_1.jpg)
+
+## Screenshot 2: Posts Search
+
+![Screenshot](public/Screenshot_2.jpg)
 
 ## Technology Stack
 + React.js
