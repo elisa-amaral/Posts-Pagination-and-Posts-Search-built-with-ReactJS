@@ -1,0 +1,18 @@
+.post-card {
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    transition: transform 100ms ease-in-out;
+    cursor: pointer;
+}
+
+.post-card:hover {
+    transform: scale(1.05);
+}
+
+.post-card img {
+    max-width: 100%;
+}
+
+.post-card-content {
+    padding: 30px;
+}
