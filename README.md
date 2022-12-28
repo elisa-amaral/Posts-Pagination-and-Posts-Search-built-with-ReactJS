@@ -23,4 +23,4 @@ The user can load posts (10 at a time) and perform searchs in the posts titles t
 + JSX
 + HTML
 + CSS
-+ [https://jsonplaceholder.typicode.com/]({JSON} Placeholder - Free fake API for testing and prototyping)
++ [JSON Placeholder](https://jsonplaceholder.typicode.com/) | Free fake API for testing and prototyping
