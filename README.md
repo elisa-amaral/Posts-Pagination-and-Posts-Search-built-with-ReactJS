@@ -4,7 +4,7 @@ This is a posts pagination and posts search project built with React.js consumin
 
 The project loads 100 posts in total and 100 images (one for each post), extracting 100 from the 5000 photos that the API provides.
 
-The user can load posts (10 at a time) and searchs through the posts titles through a search bar. Notice that every post is written with placeholder Lorem Ipsum text, then the user must test the search feature with Latin words such as "est", "aut" and "sunt", or with single letters ("a", "b", "c"...) 
+The user can load posts (10 at a time) and searchs through the posts titles via a search bar. Notice that every post is written with placeholder Lorem Ipsum text, so the user must test the search feature with Latin words, such as "est", "aut" and "sunt", or with single letters ("a", "b", "c"...) 
 
 ## Project Website
 
