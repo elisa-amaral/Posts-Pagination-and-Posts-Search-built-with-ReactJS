@@ -1,4 +1,4 @@
-# Posts Pagination and Posts Search with ReactJS
+# Posts Pagination and Posts Search with React.js
 
 This is a posts pagination and posts search project built with React.js consuming the {JSON} Placeholder API as testing data (posts title, body text and photo). 
 
