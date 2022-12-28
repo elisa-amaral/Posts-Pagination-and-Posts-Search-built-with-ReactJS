@@ -12,7 +12,7 @@ https://post-pagination-and-search-in-reactjs.netlify.app/
 
 ## Project Demonstration Video
 
-*coming soon*
+https://drive.google.com/file/d/17-gR-7UuvkZZDHwrlg2oS79ppXb4PN0V/view?usp=sharing
 
 ## Screenshot 1: Posts Pagination
 
